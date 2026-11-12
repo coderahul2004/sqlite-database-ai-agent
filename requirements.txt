@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+streamlit
+requests
+python-dotenv
+pymysql
+mcp[cli]
+langchain
+langchain-groq
+langchain-mcp-adapters
+langgraph
